@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cyberswagboss
-- 👀 I’m interested in coding and synths
-- 🌱 I’m currently learning coding in university
+- 👋 Hi, I’m dani
+- 👀 I’m interested in coding (esp. backend and embedded), guitars and synths
+- 🌱 I’m currently studiny software engineering
 
 <!---
 cyberswagboss/cyberswagboss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
